@@ -1,4 +1,7 @@
-# README
+# Proyecto conversion de Monedas
 
-Esta es la plantilla para comenzar la práctica 3: una aplicacion que permite al usuario registrarse o hacer login a un sistema web.
-
+La aplicación de conversión de divisas es una herramienta que permite a los usuarios calcular 
+el valor de una moneda en otra. Proporciona tasas de cambio actualizadas y funcionalidad 
+para realizar conversiones rápidas, intuitivas y visualmente atractivas. Este documento detalla 
+las funcionalidades propuestas, los requisitos funcionales y no funcionales, y describe el 
+alcance inicial de la aplicación. 
